@@ -405,6 +405,10 @@ ul {
 }
 
 @media screen and (max-width: 900px) {
+    .nav-center {
+            justify-content: center;
+        }
+
     .footer-section {
         height: auto;
         flex-direction: column;
