@@ -1,6 +1,5 @@
 import React from "react";
 import { useGlobalContext } from "../context";
-import { Link } from "react-router-dom";
 import Recipe from "../components/Recipe";
 
 const Favorites = () => {
